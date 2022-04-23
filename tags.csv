@@ -1,0 +1,316 @@
+,0
+0,greeting
+1,greeting
+2,greeting
+3,greeting
+4,greeting
+5,fever
+6,fever
+7,fever
+8,fever
+9,fever
+10,fever
+11,common cold
+12,common cold
+13,common cold
+14,common cold
+15,common cold
+16,common cold
+17,common cold
+18,common cold
+19,common cold
+20,common cold
+21,common cold
+22,common cold
+23,common cold
+24,common cold
+25,common cold
+26,common cold
+27,common cold
+28,common cold
+29,common cold
+30,pneumonia
+31,pneumonia
+32,pneumonia
+33,pneumonia
+34,pneumonia
+35,pneumonia
+36,pneumonia
+37,pneumonia
+38,pneumonia
+39,pneumonia
+40,pneumonia
+41,heart attack
+42,heart attack
+43,heart attack
+44,heart attack
+45,varicose veins
+46,varicose veins
+47,varicose veins
+48,varicose veins
+49,varicose veins
+50,hypothyroidism
+51,hypothyroidism
+52,hypothyroidism
+53,hypothyroidism
+54,hypothyroidism
+55,hypothyroidism
+56,hypothyroidism
+57,hypothyroidism
+58,hypothyroidism
+59,hypothyroidism
+60,hyperthyrodism
+61,hyperthyrodism
+62,hyperthyrodism
+63,hyperthyrodism
+64,hyperthyrodism
+65,hyperthyrodism
+66,hyperthyrodism
+67,hyperthyrodism
+68,hyperthyrodism
+69,hyperthyrodism
+70,hyperthyrodism
+71,hypoglycemia
+72,hypoglycemia
+73,hypoglycemia
+74,hypoglycemia
+75,hypoglycemia
+76,hypoglycemia
+77,hypoglycemia
+78,hypoglycemia
+79,hypoglycemia
+80,hypoglycemia
+81,hypoglycemia
+82,osteoarthritis
+83,osteoarthritis
+84,osteoarthritis
+85,osteoarthritis
+86,arthristis
+87,arthristis
+88,paroxysmal
+89,paroxysmal
+90,paroxysmal
+91,paroxysmal
+92,paroxysmal
+93,paroxysmal
+94,paroxysmal
+95,acne
+96,acne
+97,acne
+98,acne
+99,urinary tract infection
+100,urinary tract infection
+101,urinary tract infection
+102,urinary tract infection
+103,psoriasis
+104,psoriasis
+105,psoriasis
+106,psoriasis
+107,psoriasis
+108,impetigo
+109,impetigo
+110,impetigo
+111,impetigo
+112,Fungal infection
+113,Fungal infection
+114,Fungal infection
+115,Allergy
+116,Allergy
+117,Allergy
+118,Allergy
+119,GERD
+120,GERD
+121,GERD
+122,GERD
+123,Chronic cholestasis
+124,Chronic cholestasis
+125,Chronic cholestasis
+126,Chronic cholestasis
+127,Chronic cholestasis
+128,Chronic cholestasis
+129,Chronic cholestasis
+130,Drug reaction
+131,Drug reaction
+132,Drug reaction
+133,Drug reaction
+134,Drug reaction
+135,Peptic ulcer disease
+136,Peptic ulcer disease
+137,Peptic ulcer disease
+138,Peptic ulcer disease
+139,Peptic ulcer disease
+140,Peptic ulcer disease
+141,AIDS
+142,AIDS
+143,AIDS
+144,AIDS
+145,Diabetes
+146,Diabetes
+147,Diabetes
+148,Diabetes
+149,Diabetes
+150,Diabetes
+151,Diabetes
+152,Diabetes
+153,Diabetes
+154,Diabetes
+155,Gastroenteritis
+156,Gastroenteritis
+157,Gastroenteritis
+158,Gastroenteritis
+159,Bronchial Asthma
+160,Bronchial Asthma
+161,Bronchial Asthma
+162,Bronchial Asthma
+163,Bronchial Asthma
+164,Hypertension
+165,Hypertension
+166,Hypertension
+167,Hypertension
+168,Hypertension
+169,Hypertension
+170,Hypertension
+171,Migraine
+172,Migraine
+173,Migraine
+174,Migraine
+175,Migraine
+176,Migraine
+177,Migraine
+178,Migraine
+179,Migraine
+180,Cervical spondylosis
+181,Cervical spondylosis
+182,Cervical spondylosis
+183,Cervical spondylosis
+184,Cervical spondylosis
+185,Paralysis (brain hemorrhage)
+186,Paralysis (brain hemorrhage)
+187,Paralysis (brain hemorrhage)
+188,Paralysis (brain hemorrhage)
+189,Jaundice
+190,Jaundice
+191,Jaundice
+192,Jaundice
+193,Jaundice
+194,Jaundice
+195,Malaria
+196,Malaria
+197,Malaria
+198,Malaria
+199,Malaria
+200,Malaria
+201,Malaria
+202,Malaria
+203,Chicken pox
+204,Chicken pox
+205,Chicken pox
+206,Chicken pox
+207,Chicken pox
+208,Chicken pox
+209,Chicken pox
+210,Chicken pox
+211,Chicken pox
+212,Chicken pox
+213,Chicken pox
+214,Dengue
+215,Dengue
+216,Dengue
+217,Dengue
+218,Dengue
+219,Dengue
+220,Dengue
+221,Dengue
+222,Dengue
+223,Dengue
+224,Dengue
+225,Dengue
+226,Dengue
+227,Typhoid
+228,Typhoid
+229,Typhoid
+230,Typhoid
+231,Typhoid
+232,Typhoid
+233,Typhoid
+234,Typhoid
+235,Typhoid
+236,Typhoid
+237,Typhoid
+238,hepatitis A
+239,hepatitis A
+240,hepatitis A
+241,hepatitis A
+242,hepatitis A
+243,hepatitis A
+244,hepatitis A
+245,hepatitis A
+246,hepatitis A
+247,hepatitis A
+248,hepatitis B
+249,hepatitis B
+250,hepatitis B
+251,hepatitis B
+252,hepatitis B
+253,hepatitis B
+254,hepatitis B
+255,hepatitis B
+256,hepatitis B
+257,hepatitis B
+258,hepatitis B
+259,hepatitis C
+260,hepatitis C
+261,hepatitis C
+262,hepatitis C
+263,hepatitis C
+264,hepatitis D
+265,hepatitis D
+266,hepatitis D
+267,hepatitis D
+268,hepatitis D
+269,hepatitis D
+270,hepatitis D
+271,hepatitis D
+272,hepatitis D
+273,hepatitis D
+274,hepatitis E
+275,hepatitis E
+276,hepatitis E
+277,hepatitis E
+278,hepatitis E
+279,hepatitis E
+280,hepatitis E
+281,hepatitis E
+282,hepatitis E
+283,hepatitis E
+284,hepatitis E
+285,hepatitis E
+286,hepatitis E
+287,Alcoholic hepatitis
+288,Alcoholic hepatitis
+289,Alcoholic hepatitis
+290,Alcoholic hepatitis
+291,Alcoholic hepatitis
+292,Alcoholic hepatitis
+293,Tuberculosis
+294,Tuberculosis
+295,Tuberculosis
+296,Tuberculosis
+297,Tuberculosis
+298,Tuberculosis
+299,Tuberculosis
+300,Tuberculosis
+301,Tuberculosis
+302,Tuberculosis
+303,Tuberculosis
+304,Tuberculosis
+305,Tuberculosis
+306,Tuberculosis
+307,Tuberculosis
+308,Tuberculosis
+309,goodbye
+310,goodbye
+311,goodbye
+312,goodbye
+313,goodbye
+314,goodbye

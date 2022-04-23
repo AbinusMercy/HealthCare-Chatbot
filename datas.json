@@ -1,0 +1,174 @@
+{"intents": [
+             {"tag": "greeting",
+              "patterns": ["Hello", "How are you?", "Hi there", "Hi", "Whats up"],
+              "responses": ["Howdy Partner!", "Hello", "How are you doing?", "Greetings!", "How do you do?"]
+             },
+             {"tag": "fever",
+              "patterns": ["high temperaure", "body pain with headache", "headache","cough and sneezing","running nose and cold","fever cold"],
+              "responses": ["You may have fever", "It might be cold due to climatic changes", "You are having a mild fever which can be cured by 2 days rest"]
+             },
+             {"tag":"common cold",
+              "patterns":["continuous sneezing", "fatigue", "cough", "fever", "running nose","chills", "cough", "fever", "loss of smell", "muscle pain","headache", "malaise","swelled lymph nodes", "phlegm","throat irritation", "reddness of eye","running nose","throat pain", "sinus pressure"],
+              "responses":["These are the symptoms of common cold.If it prolong more than a week consult your nearby doctor."]
+             },
+             {"tag":"pneumonia",
+              "patterns":["chills" ,"fatigue" ,"cough", "high fever", "breathlessness", "sweating", "malaise", "phlegm", "fast heart rate", "chest pain", "rusty sputum"],
+              "responses":["Signs show you ay have pneumonia.Immediately contact your doctor."]
+             },
+             {"tag":"heart attack",
+              "patterns":["vomiting", "chest pain" ,"breathlessness", "sweating"],
+              "responses":["Signs of heart attack"]
+             },
+             {"tag":"varicose veins",
+              "patterns":["fatigue cramps" ,"obesity swollen legs" ,"blood vessels prominent veins on calf ","swollen legs blood vessels","prominent veins on calf fatigue cramps"],
+              "responses":["you may have varicose veins.Treatment involves compressions stockings and exercise"]
+             },
+             {"tag":"hypothyroidism",
+              "patterns":["fatigue", "weight gain", "cold hand and feets", "mood swings lethargy ","dizziness puffy face and eyes", "enlarged thyroid", "brittle nails", "swollen extremeties", "depression", "irritability"],
+              "responses":["These are the signs of hypothyrodism consult your doctor."]
+             },
+             {"tag":"hyperthyrodism",
+              "patterns":["fatigue", "mood swings" ,"weight loss", "restlessness", "sweating", "diarrhoea", "fast heart rate","excessive hunger" ,"muscle weekness", "irritability", "abnormal menstruation"],
+              "responses":["mood swings,weight loss and abnormal menstruation leads to hyperthyrodism"]
+             },
+             {"tag":"hypoglycemia",
+              "patterns":["vomiting", "anxitey", "fatigue", "sweating", "nausea", "blurred and distorted vision","excessive hunger", "drying and tingling lips", "slurred speech" ,"irritablity", "palpitations"],
+              "responses":["Hypoglycemia(low blood sugar)..Consume high-sugar foods or drinks"]
+             },
+             {"tag":"osteoarthritis",
+              "patterns":["joint neck knee pain ","hip joint pain","swelling joins" ,"painfull walking"],
+              "responses":["osteoarthritis can be treated by physical exercise ,weight loss,ice packs."]
+             },
+             {"tag":"arthristis",
+              "patterns":["muscle weakness stiff neck swelling joints movement stiffness","muscle weakness stiff neck painfull walking"],
+              "responses":["arthristis can be treated by physical exercise ,weight loss,ice packs."]
+             },
+             {"tag":"paroxysmal",
+              "patterns":["vomiting", "headache", "nausea", "spinning movements","loss of balance",  "unsteadiness", "headache nausea"],
+              "responses":["paroxysmal is a series of sudden uncontrollable mmovements that your body makes because you are coughing,laughing or in great pain."]
+             },
+             {"tag":"acne",
+              "patterns":["skin rash", "pus filled pimples", "blackheads","scurring  pimples"],
+              "responses":["Acne treatments include over-the-counter creams and cleanser, as well as prescription antibiotics."]
+             },
+             {"tag":"urinary tract infection",
+              "patterns":["burning micturition", "bladder discomfort" ,"foul smell of urine", "continuous feel of urine"],
+              "responses":["Urinary tract infection!! Drink plenty of water"]
+             },
+             {"tag":"psoriasis",
+              "patterns":["skin rash", "joint pain" ,"skin peeling", "silver like dusting", "small dents in nails inflammatory nails"],
+              "responses":["Psoriasis is condition in which skin cells build up and form scales and itchy dry patches"]
+             },
+             {"tag":"impetigo",
+              "patterns":["skin rash", "high fever" ,"blister", "red sore around nose"],
+              "responses":["Impetigo is a highly contagious skin infection that causes red sores on the face.Antibiotics shorten the infection and can help prevent spread to others."]
+             },
+             {"tag": "Fungal infection",
+              "patterns": ["itching", "nodal skin itching", "skin rash"],
+              "responses": ["It must be a Fungal infection"]
+            },
+            {"tag": "Allergy",
+             "patterns": ["continuous shivering", "chills", "watering from eyes", "joint pain"],
+             "responses": ["You have an allergy"]
+            },
+            {"tag": "GERD",
+             "patterns": ["acidity", "ulers on tongue vomiting", "acidity stomach pain", "vomiting"],
+             "responses": ["These are the signs of GERD.Stronger medication may be required"]
+            },
+            {"tag": "Chronic cholestasis",
+             "patterns": ["loss of appetite", "abdominal pain", "itching", "yellowish skin", "loss of appetite vomiting","yellowing of eyes", "nausea"],
+             "responses": ["You might have chronic cholestasis.You must take immediate treatment."]
+            },
+            {"tag": "Drug reaction",
+             "patterns": ["burning micnutrition", "spotting urination", "stomach pain", "itching", "skin rash"],
+             "responses": ["You may have a drug reaction.It is like drug allergy.Discontinuing the drug is the first treatment."]
+            },
+            {"tag": "Peptic ulcer disease",
+             "patterns": ["passage of gases", "abdominal pain", "internal itching", "indigestion", "loss of appetite","vomiting"],
+             "responses": ["You might have a peptic ulcer disease.It is caused by bacteria,antibiotics may be required."]
+            },
+            {"tag": "AIDS",
+             "patterns": ["patches in throat", "muscle wasting", "high fever", "extra marital contacts"],
+             "responses": ["These are the symptoms of AIDS.There is no cure.But you can protect yourself and others from infection."]
+            },
+            {"tag": "Diabetes",
+             "patterns": ["polyuria", "excessive hunger", "weight loss", "restlessness", "lethargy" ,"increased appetite","obesity", "fatigue", "blurred and distorted vision", "irregular sugar level"],
+             "responses": ["You have diabetes.Treatments include diet,exercise,medication and insulin therapy"]
+            },
+            {"tag": "Gastroenteritis",
+             "patterns": ["dehydration", "diarrhoea", "sunken eyes", "vomiting"],
+             "response": ["You may have Gastroenteritis.Drink plenty of water everyday is the fastest way to cure it."]
+            },
+            {"tag": "Bronchial Asthma",
+             "patterns": ["fatigue", "cough", "high fever", "mucoid sputum", "breathlessness"],
+             "responses": ["You have Bronchial Asthma.Medications are required."]
+            },
+            {"tag": "Hypertension",
+             "patterns": ["headache", "dizziness", "chest pain", "loss of balance", "dizziness", "lack of concentration","chest pain"],
+             "responses": ["You might have hypertension.Treatments include Yoga,diet and exercise."]
+            },
+            {"tag": "Migraine",
+             "patterns": ["visual disturbances", "headache", "depression", "irritability" ,"indigestion", "acidity","stiff neck", "excessive hunger", "blurred and distorted vision"],
+             "responses": ["These are the signs of Migraine.Improve sleep habits and Diet modification."]
+            },
+            {"tag": "Cervical spondylosis",
+             "patterns": ["pain behind the eyes", "weakness in limbs", "neck pain", "dizziness", "loss of balance"],
+             "responses": ["You have Cervical spondylosis.Medication is required.No specific treatment is required"]
+            },
+            {"tag": "Paralysis (brain hemorrhage)",
+             "patterns": ["vomiting", "headache", "weakness of one body side", "altered sensorium"],
+             "responses": ["You must have Paralysis.You have to see the specialist doctor immediately."]
+            },
+            {"tag": "Jaundice",
+             "patterns": ["abdominal pain", "vomiting", "dark urine", "yellowish skin", "high fever", "weight loss"], 
+             "responses": ["You have Jaundice.You have to see the doctor and evaluated"]
+            },
+            {"tag": "Malaria",
+             "patterns": ["chills", "high fever", "nausea", "vomiting", "sweating", "headache", "diarrhoea", "muscle pain"],
+             "responses": ["You have Malaria.Consult a nearby doctor."]
+            },
+            {"tag": "Chicken pox",
+             "patterns": ["itching", "skin rash", "red spots over body", "fatigue", "headache", "lethargy", "abdominal pain", "loss of appetite", "mild fever", "swelled lymph nodes", "malaise"],
+             "responses": ["You must have Chicken pox.Antiviral medication is required."]
+            },
+            {"tag": "Dengue",
+             "patterns": ["chills", "joint pain", "skin rash", "red spots over body", "high fever", "muscle pain","vomiting", "fatigue", "headache", "nausea", "loss of appetite","pain behind the eyes", "back pain"],
+             "responses": ["You must have Dengue.Treatment includes fluids and pain relievers.Severe cases require hospital care."]
+            },
+            {"tag": "Typhoid",
+             "patterns": ["chills" ,"fatigue", "vomiting", "headache", "high fever", "nausea", "constipation", "abdominal pain", "diarrhoea", "toxic look (typhos)", "belly pain"], 
+             "responses": ["You must have Typhoid.Antibiotics and fluids may help.Consult a doctor if the symptoms got severe."]
+            },
+            {"tag": "hepatitis A",
+             "patterns": ["joint pain", "vomiting", "loss of appetite", "yellowish skin", "dark urine", "nausea","diarrhoea", "abdominal pain", "mild fever", "yellowing of eyes"],
+             "responses": ["You might have hepatitis A.Rest and adequate hydration can help."]
+            },
+            {"tag": "hepatitis B",
+             "patterns": ["itching", "fatigue", "lethargy", "abdominal pain", "yellowish skin", "dark urine", "loss of appetite", "yellowing of eyes", "yellow urine", "receiving blood transfusion", "receiving unsterile injections"], 
+             "responses": ["You have hepatitis B.Chronic cases require medication."]
+            },
+            {"tag": "hepatitis C",
+             "patterns": ["fatigue", "yellowish skin", "nausea", "loss of appetite", "yellowing of eyes"],
+             "responses": ["You have hepatitis C.It can be treated with antiviral medication."]
+            },
+            {"tag": "hepatitis D",
+             "patterns": ["vomiting", "fatigue", "nausea", "yellowish skin", "dark urine", "loss of appetite", "abdominal pain", "yellowing of eyes", "yellowish skin", "joint pain"], 
+             "responses": ["You may have hepatitis D.You have to consult a doctor."]
+            },
+            {"tag": "hepatitis E",
+             "patterns": ["vomiting", "joint pain", "fatigue", "high fever", "yellowish skin", "dark urine", "nausea","loss of appetite", "abdominal pain", "yellowing of eyes", "acute liver failure", "stomach bleeding", "loss of sense"],
+             "responses": ["These are the signs of hepatitis E.Treatment focuses on rehydration and rest."]
+            },
+            {"tag": "Alcoholic hepatitis",
+             "patterns": ["vomiting", "yellowish skin", "abdominal pain", "swelling of stomach", "distention of abdomen","history of alcohol consumption fluid overload"],
+             "responses": ["You might have Alcoholic hepatitis.Treatment involves stopping alcohol use."]
+            },
+            {"tag": "Tuberculosis",
+             "patterns": ["chills", "vomiting", "fatigue", "weight loss", "loss of appetite", "cough", "high fever","breathlessness", "sweating", "mild fever", "yellowing of eyes", "swelled lymph nodes","malaise", "chest pain", "phlegm", "blood in sputum"], 
+             "responses": ["You must have Tuberculosis.Active symptoms will require a long course of treatment."]
+            },
+            {"tag": "goodbye",
+             "patterns": [ "bye", "thank you","g2g", "see ya", "adios", "cya"],
+             "responses": ["It was nice speaking to you.Type exit to end this!", "See you later.Type exit to end this!","Speak soon!Type exit to end this!"]
+            }
+]}

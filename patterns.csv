@@ -1,0 +1,316 @@
+,0
+0,Hello
+1,How are you?
+2,Hi there
+3,Hi
+4,Whats up
+5,high temperaure
+6,body pain with headache
+7,headache
+8,cough and sneezing
+9,running nose and cold
+10,fever cold
+11,continuous sneezing
+12,fatigue
+13,cough
+14,fever
+15,running nose
+16,chills
+17,cough
+18,fever
+19,loss of smell
+20,muscle pain
+21,headache
+22,malaise
+23,swelled lymph nodes
+24,phlegm
+25,throat irritation
+26,reddness of eye
+27,running nose
+28,throat pain
+29,sinus pressure
+30,chills
+31,fatigue
+32,cough
+33,high fever
+34,breathlessness
+35,sweating
+36,malaise
+37,phlegm
+38,fast heart rate
+39,chest pain
+40,rusty sputum
+41,vomiting
+42,chest pain
+43,breathlessness
+44,sweating
+45,fatigue cramps
+46,obesity swollen legs
+47,blood vessels prominent veins on calf 
+48,swollen legs blood vessels
+49,prominent veins on calf fatigue cramps
+50,fatigue
+51,weight gain
+52,cold hand and feets
+53,mood swings lethargy 
+54,dizziness puffy face and eyes
+55,enlarged thyroid
+56,brittle nails
+57,swollen extremeties
+58,depression
+59,irritability
+60,fatigue
+61,mood swings
+62,weight loss
+63,restlessness
+64,sweating
+65,diarrhoea
+66,fast heart rate
+67,excessive hunger
+68,muscle weekness
+69,irritability
+70,abnormal menstruation
+71,vomiting
+72,anxitey
+73,fatigue
+74,sweating
+75,nausea
+76,blurred and distorted vision
+77,excessive hunger
+78,drying and tingling lips
+79,slurred speech
+80,irritablity
+81,palpitations
+82,joint neck knee pain 
+83,hip joint pain
+84,swelling joins
+85,painfull walking
+86,muscle weakness stiff neck swelling joints movement stiffness
+87,muscle weakness stiff neck painfull walking
+88,vomiting
+89,headache
+90,nausea
+91,spinning movements
+92,loss of balance
+93,unsteadiness
+94,headache nausea
+95,skin rash
+96,pus filled pimples
+97,blackheads
+98,scurring  pimples
+99,burning micturition
+100,bladder discomfort
+101,foul smell of urine
+102,continuous feel of urine
+103,skin rash
+104,joint pain
+105,skin peeling
+106,silver like dusting
+107,small dents in nails inflammatory nails
+108,skin rash
+109,high fever
+110,blister
+111,red sore around nose
+112,itching
+113,nodal skin itching
+114,skin rash
+115,continuous shivering
+116,chills
+117,watering from eyes
+118,joint pain
+119,acidity
+120,ulers on tongue vomiting
+121,acidity stomach pain
+122,vomiting
+123,loss of appetite
+124,abdominal pain
+125,itching
+126,yellowish skin
+127,loss of appetite vomiting
+128,yellowing of eyes
+129,nausea
+130,burning micnutrition
+131,spotting urination
+132,stomach pain
+133,itching
+134,skin rash
+135,passage of gases
+136,abdominal pain
+137,internal itching
+138,indigestion
+139,loss of appetite
+140,vomiting
+141,patches in throat
+142,muscle wasting
+143,high fever
+144,extra marital contacts
+145,polyuria
+146,excessive hunger
+147,weight loss
+148,restlessness
+149,lethargy
+150,increased appetite
+151,obesity
+152,fatigue
+153,blurred and distorted vision
+154,irregular sugar level
+155,dehydration
+156,diarrhoea
+157,sunken eyes
+158,vomiting
+159,fatigue
+160,cough
+161,high fever
+162,mucoid sputum
+163,breathlessness
+164,headache
+165,dizziness
+166,chest pain
+167,loss of balance
+168,dizziness
+169,lack of concentration
+170,chest pain
+171,visual disturbances
+172,headache
+173,depression
+174,irritability
+175,indigestion
+176,acidity
+177,stiff neck
+178,excessive hunger
+179,blurred and distorted vision
+180,pain behind the eyes
+181,weakness in limbs
+182,neck pain
+183,dizziness
+184,loss of balance
+185,vomiting
+186,headache
+187,weakness of one body side
+188,altered sensorium
+189,abdominal pain
+190,vomiting
+191,dark urine
+192,yellowish skin
+193,high fever
+194,weight loss
+195,chills
+196,high fever
+197,nausea
+198,vomiting
+199,sweating
+200,headache
+201,diarrhoea
+202,muscle pain
+203,itching
+204,skin rash
+205,red spots over body
+206,fatigue
+207,headache
+208,lethargy
+209,abdominal pain
+210,loss of appetite
+211,mild fever
+212,swelled lymph nodes
+213,malaise
+214,chills
+215,joint pain
+216,skin rash
+217,red spots over body
+218,high fever
+219,muscle pain
+220,vomiting
+221,fatigue
+222,headache
+223,nausea
+224,loss of appetite
+225,pain behind the eyes
+226,back pain
+227,chills
+228,fatigue
+229,vomiting
+230,headache
+231,high fever
+232,nausea
+233,constipation
+234,abdominal pain
+235,diarrhoea
+236,toxic look (typhos)
+237,belly pain
+238,joint pain
+239,vomiting
+240,loss of appetite
+241,yellowish skin
+242,dark urine
+243,nausea
+244,diarrhoea
+245,abdominal pain
+246,mild fever
+247,yellowing of eyes
+248,itching
+249,fatigue
+250,lethargy
+251,abdominal pain
+252,yellowish skin
+253,dark urine
+254,loss of appetite
+255,yellowing of eyes
+256,yellow urine
+257,receiving blood transfusion
+258,receiving unsterile injections
+259,fatigue
+260,yellowish skin
+261,nausea
+262,loss of appetite
+263,yellowing of eyes
+264,vomiting
+265,fatigue
+266,nausea
+267,yellowish skin
+268,dark urine
+269,loss of appetite
+270,abdominal pain
+271,yellowing of eyes
+272,yellowish skin
+273,joint pain
+274,vomiting
+275,joint pain
+276,fatigue
+277,high fever
+278,yellowish skin
+279,dark urine
+280,nausea
+281,loss of appetite
+282,abdominal pain
+283,yellowing of eyes
+284,acute liver failure
+285,stomach bleeding
+286,loss of sense
+287,vomiting
+288,yellowish skin
+289,abdominal pain
+290,swelling of stomach
+291,distention of abdomen
+292,history of alcohol consumption fluid overload
+293,chills
+294,vomiting
+295,fatigue
+296,weight loss
+297,loss of appetite
+298,cough
+299,high fever
+300,breathlessness
+301,sweating
+302,mild fever
+303,yellowing of eyes
+304,swelled lymph nodes
+305,malaise
+306,chest pain
+307,phlegm
+308,blood in sputum
+309,bye
+310,thank you
+311,g2g
+312,see ya
+313,adios
+314,cya
